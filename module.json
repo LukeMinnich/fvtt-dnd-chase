@@ -1,0 +1,8 @@
+{
+  "name": "dnd-chase",
+  "title": "D&D Chase - Manage Chase Sequences Like A Boss",
+  "description": "A module that assists in managing the participants, relative position, and rollable chase complications tables for D&D chases according to the rules presented in the Fifth Edition Dungeon Master's Guide.",
+  "author": "Luke Minnich [squareman2357#3173]",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.6.5"
+}
